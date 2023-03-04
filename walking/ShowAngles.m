@@ -1,0 +1,20 @@
+function [VarName1,VarName2,VarName3,VarName4,VarName5,VarName6,VarName7,VarName8,VarName9,VarName10,VarName11,VarName12,VarName13,VarName14,VarName15,VarName16,VarName17,VarName18]= ShowAngles(DateString)
+VarName1 = load( [DateString,'/','1.txt']);
+VarName2 = load([DateString,'/','2.txt']);
+VarName3 = load( [DateString,'/','3.txt']);
+VarName4 = load( [DateString,'/','4.txt']);
+VarName5 = load( [DateString,'/','5.txt']);
+VarName6 = load( [DateString,'/','6.txt']);
+VarName7 = load([DateString,'/','7.txt']);
+VarName8 = load([DateString,'/','8.txt']);
+VarName9 = load( [DateString,'/','9.txt']);
+VarName10 = load([DateString,'/','10.txt']);
+VarName11 = load([DateString,'/','11.txt']);
+VarName12 = load([DateString,'/','12.txt']);
+VarName13 = load([DateString,'/','13.txt']);
+VarName14 = load([DateString,'/','14.txt']);
+VarName15 = load([DateString,'/','15.txt']);
+VarName16 = load([DateString,'/','16.txt']);
+VarName17 = load([DateString,'/','17.txt']);
+VarName18 = load([DateString,'/','18.txt']);
+end
